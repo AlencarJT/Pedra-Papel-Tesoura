@@ -1,5 +1,5 @@
 # Pedra Papel Tesoura
- Jogo recreativo adaptado para o computador. Também conhecido como jokenpô
+ Jogo recreativo, adaptado para ser jogado no computador. Também conhecido como jokenpô.
 
 Regras:
 - Pedra Ganha da Tesoura;
